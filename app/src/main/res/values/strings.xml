@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ams</string>
+    <string name="Punch_In">Punch_In</string>
+    <string name="Punch_Out">Punch_Out</string>
+</resources>
